@@ -1,0 +1,11 @@
+﻿[
+  {
+    "Id": "0EE390DC-A470-424D-9203-1AAC9DF2FCBE",
+    "CandidateId": "0EE390DC-A470-424D-9203-1AAC9DF2FCBD",
+    "From": "2001-01-01",
+    "To": "2002-01-01",
+    "Company": "Military Academy in Warsaw",
+    "Skills": [ "c#", "GIS" ],
+    "Description": "Lorem ipsum"
+  }
+]

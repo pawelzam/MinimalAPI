@@ -1,0 +1,9 @@
+[
+  {
+    "Id": "0EE390DC-A470-424D-9203-1AAC9DF2FCBD",
+    "Name": "Paweł Zamrij",
+    "Description": "Lorem ipsum",
+    "Address": "aaaa",
+    "Skills": [ "c#", "angular" ]
+  }
+]

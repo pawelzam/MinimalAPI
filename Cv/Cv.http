@@ -1,0 +1,13 @@
+﻿@Cv_HostAddress = http://localhost:8001
+###
+
+POST {{Cv_HostAddress}}/candidates
+
+{
+    "name": "Paweł Zamrij"
+}
+
+###
+
+GET {{Cv_HostAddress}}/candidates
+
